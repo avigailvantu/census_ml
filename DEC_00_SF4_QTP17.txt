@@ -1,0 +1,29 @@
+QT-P17
+Ability to Speak English: 2000
+
+NOTE: Data based on a sample. For information on confidentiality
+protection, sampling error, nonsampling error, definitions, and
+count corrections see
+http://www.census.gov/prod/cen2000/doc/sf4.pdf
+
+
+
+
+Source: U.S. Census Bureau, Census 2000 Summary File 4, Matrices
+PCT38, PCT40, PCT41, and PCT42.
+
+
+
+
+(X) Not applicable.
+
+
+
+A 
+linguistically isolated household is one in which no member
+14 years old and over (1) speaks only English or (2) speaks a
+non-English language and speaks English "very well." In other
+words, all members 14 years old and over have at least some
+difficulty with English.
+
+

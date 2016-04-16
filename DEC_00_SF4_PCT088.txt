@@ -1,0 +1,13 @@
+PCT088
+HOUSEHOLD INCOME IN 1999 [17]
+
+Universe: Households
+
+NOTE: Data based on a sample. For information on confidentiality
+protection, sampling error, nonsampling error, definitions, and
+count corrections see
+http://www.census.gov/prod/cen2000/doc/sf4.pdf
+
+
+
+

@@ -1,0 +1,125 @@
+POPGROUP.id,Id
+POPGROUP.display-label,Population Group
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_VC02,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school
+HC02_VC02,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school
+HC03_VC02,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school
+HC01_VC03,"Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Nursery school, preschool"
+HC02_VC03,"Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Nursery school, preschool"
+HC03_VC03,"Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Nursery school, preschool"
+HC01_VC04,"Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Nursery school, preschool - Public"
+HC02_VC04,"Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Nursery school, preschool - Public"
+HC03_VC04,"Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Nursery school, preschool - Public"
+HC01_VC05,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Kindergarten
+HC02_VC05,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Kindergarten
+HC03_VC05,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Kindergarten
+HC01_VC06,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Kindergarten - Public
+HC02_VC06,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Kindergarten - Public
+HC03_VC06,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Kindergarten - Public
+HC01_VC07,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Elementary: grade 1 to 4
+HC02_VC07,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Elementary: grade 1 to 4
+HC03_VC07,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Elementary: grade 1 to 4
+HC01_VC08,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Elementary: grade 1 to 4 - Public
+HC02_VC08,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Elementary: grade 1 to 4 - Public
+HC03_VC08,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Elementary: grade 1 to 4 - Public
+HC01_VC09,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Elementary: grade 5 to 8
+HC02_VC09,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Elementary: grade 5 to 8
+HC03_VC09,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Elementary: grade 5 to 8
+HC01_VC10,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Elementary: grade 5 to 8 - Public
+HC02_VC10,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Elementary: grade 5 to 8 - Public
+HC03_VC10,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Elementary: grade 5 to 8 - Public
+HC01_VC11,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - High school: grade 9 to 12
+HC02_VC11,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - High school: grade 9 to 12
+HC03_VC11,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - High school: grade 9 to 12
+HC01_VC12,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - High school: grade 9 to 12 - Public
+HC02_VC12,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - High school: grade 9 to 12 - Public
+HC03_VC12,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - High school: grade 9 to 12 - Public
+HC01_VC13,"Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - College, undergraduate"
+HC02_VC13,"Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - College, undergraduate"
+HC03_VC13,"Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - College, undergraduate"
+HC01_VC14,"Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - College, undergraduate - Public"
+HC02_VC14,"Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - College, undergraduate - Public"
+HC03_VC14,"Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - College, undergraduate - Public"
+HC01_VC15,"Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Graduate, professional school"
+HC02_VC15,"Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Graduate, professional school"
+HC03_VC15,"Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Graduate, professional school"
+HC01_VC16,"Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Graduate, professional school - Public"
+HC02_VC16,"Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Graduate, professional school - Public"
+HC03_VC16,"Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - Graduate, professional school - Public"
+HC01_VC17,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school
+HC02_VC17,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school
+HC03_VC17,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school
+HC01_VC18,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 3 and 4 years
+HC02_VC18,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 3 and 4 years
+HC03_VC18,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 3 and 4 years
+HC01_VC19,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 5 to 14 years
+HC02_VC19,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 5 to 14 years
+HC03_VC19,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 5 to 14 years
+HC01_VC20,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 15 to 17 years
+HC02_VC20,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 15 to 17 years
+HC03_VC20,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 15 to 17 years
+HC01_VC21,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 18 and 19 years
+HC02_VC21,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 18 and 19 years
+HC03_VC21,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 18 and 19 years
+HC01_VC22,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 20 to 24 years
+HC02_VC22,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 20 to 24 years
+HC03_VC22,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 20 to 24 years
+HC01_VC23,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 25 to 34 years
+HC02_VC23,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 25 to 34 years
+HC03_VC23,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 25 to 34 years
+HC01_VC24,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 35 years and over
+HC02_VC24,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 35 years and over
+HC03_VC24,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 3 years and over enrolled in school - 35 years and over
+HC01_VC25,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 18 to 24 years
+HC02_VC25,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 18 to 24 years
+HC03_VC25,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 18 to 24 years
+HC01_VC26,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 18 to 24 years - High school graduates
+HC02_VC26,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 18 to 24 years - High school graduates
+HC03_VC26,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 18 to 24 years - High school graduates
+HC01_VC27,Number; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 18 to 24 years - Enrolled in college or graduate school
+HC02_VC27,Percent; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 18 to 24 years - Enrolled in college or graduate school
+HC03_VC27,Percent of age group enrolled in school; SCHOOL ENROLLMENT AND TYPE OF SCHOOL - Population 18 to 24 years - Enrolled in college or graduate school
+HC01_VC29,"Number; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years"
+HC02_VC29,"Percent; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years"
+HC03_VC29,"Percent of age group enrolled in school; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years"
+HC01_VC30,"Number; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Enrolled in school"
+HC02_VC30,"Percent; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Enrolled in school"
+HC03_VC30,"Percent of age group enrolled in school; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Enrolled in school"
+HC01_VC31,"Number; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Enrolled in school - Employed civilian"
+HC02_VC31,"Percent; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Enrolled in school - Employed civilian"
+HC03_VC31,"Percent of age group enrolled in school; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Enrolled in school - Employed civilian"
+HC01_VC32,"Number; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Enrolled in school - Unemployed"
+HC02_VC32,"Percent; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Enrolled in school - Unemployed"
+HC03_VC32,"Percent of age group enrolled in school; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Enrolled in school - Unemployed"
+HC01_VC33,"Number; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Enrolled in school - Not in labor force"
+HC02_VC33,"Percent; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Enrolled in school - Not in labor force"
+HC03_VC33,"Percent of age group enrolled in school; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Enrolled in school - Not in labor force"
+HC01_VC34,"Number; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school"
+HC02_VC34,"Percent; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school"
+HC03_VC34,"Percent of age group enrolled in school; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school"
+HC01_VC35,"Number; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - High school graduate"
+HC02_VC35,"Percent; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - High school graduate"
+HC03_VC35,"Percent of age group enrolled in school; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - High school graduate"
+HC01_VC36,"Number; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - High school graduate - Employed civilian"
+HC02_VC36,"Percent; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - High school graduate - Employed civilian"
+HC03_VC36,"Percent of age group enrolled in school; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - High school graduate - Employed civilian"
+HC01_VC37,"Number; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - High school graduate - Unemployed"
+HC02_VC37,"Percent; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - High school graduate - Unemployed"
+HC03_VC37,"Percent of age group enrolled in school; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - High school graduate - Unemployed"
+HC01_VC38,"Number; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - High school graduate - Not in labor force"
+HC02_VC38,"Percent; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - High school graduate - Not in labor force"
+HC03_VC38,"Percent of age group enrolled in school; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - High school graduate - Not in labor force"
+HC01_VC39,"Number; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - Not high school graduate"
+HC02_VC39,"Percent; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - Not high school graduate"
+HC03_VC39,"Percent of age group enrolled in school; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - Not high school graduate"
+HC01_VC40,"Number; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - Not high school graduate - Employed civilian"
+HC02_VC40,"Percent; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - Not high school graduate - Employed civilian"
+HC03_VC40,"Percent of age group enrolled in school; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - Not high school graduate - Employed civilian"
+HC01_VC41,"Number; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - Not high school graduate - Unemployed"
+HC02_VC41,"Percent; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - Not high school graduate - Unemployed"
+HC03_VC41,"Percent of age group enrolled in school; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - Not high school graduate - Unemployed"
+HC01_VC42,"Number; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - Not high school graduate - Not in labor force"
+HC02_VC42,"Percent; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - Not high school graduate - Not in labor force"
+HC03_VC42,"Percent of age group enrolled in school; SCHOOL ENROLLMENT, EDUCATIONAL ATTAINMENT, AND EMPLOYMENT STATUS - Population 16 to 19 years - Not enrolled in school - Not high school graduate - Not in labor force"
